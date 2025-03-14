@@ -49,7 +49,7 @@ def get_llm_response(prompt):
     Calls the Google Gemini API and returns the response text.
     Adjust the payload and extraction based on the API's response format.
     """
-    GEMINI_API_KEY =  "AIzaSyCecLm5dA0X38_GeQIVVG-EAN_K1x_u0Og"
+    GEMINI_API_KEY =  "API key"
     GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
     
     payload = {
