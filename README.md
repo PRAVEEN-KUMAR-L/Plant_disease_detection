@@ -1,1 +1,1 @@
-# Plant_disease_detection
+# Eternal-Coders_AI14
